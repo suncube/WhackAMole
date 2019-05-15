@@ -1,5 +1,5 @@
 # WhackAMole
-![](http://drive.google.com/uc?export=view&id=1hFv7vBp5k79FdN0hTuU46l1zZZWY9h32)
+![](/ReadmeSource/preview1.gif)
 
 [Youtube full video](https://youtu.be/0KjAo6xM3kw)
 
