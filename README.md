@@ -12,6 +12,3 @@
 
 It was a wonderful attempt to find an order through the creation of a prototype for client before he decides to work with you. It seemed to me the right strategy, because no one knew about us and our portfolio of projects was small. There was an idea) Rather, everything failed because I was not very persistent.
 Models by [Anatoli Zaitsau](https://github.com/AnatoliZaitsau)
-
-#
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.donationalerts.com/r/suncube)
